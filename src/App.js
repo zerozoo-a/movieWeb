@@ -27,7 +27,7 @@ class App extends Component{
       const { isLoading,movies }=this.state;
     return(
       <section className="container">
-          <div>
+          <div className="wrapper">
             {isLoading ? (
               <div><h2>Loading...</h2></div>
             ):(
