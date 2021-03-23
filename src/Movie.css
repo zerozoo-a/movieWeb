@@ -1,0 +1,11 @@
+.movie {
+  margin: 0 30px;
+  background-color: rgba(56, 54, 54, 0.4);
+  box-shadow: 7px 7px 2px 2px rgb(11, 75, 61);
+}
+.movie__poster {
+  margin-bottom: 15px;
+}
+.movie__genres {
+  margin-bottom: 15px;
+}
